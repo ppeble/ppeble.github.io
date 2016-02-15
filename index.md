@@ -4,7 +4,7 @@ layout: default
 
 Hello!
 
-My name is Phil Peble and I am a software developer that currently works for <a href='http://www.sittercity.com'>Sittercity</a>. I am primarily a backend engineer that writes in Ruby and Go but I have used other languages extensively in my past positions. If you would like more information on my skills and past experience please see my resume below.
+My name is Phil Peble and I am a software developer that currently works for <a href='http://www.sittercity.com'>Sittercity</a>. I am primarily a backend engineer that writes in Ruby and Go but I have used other languages extensively in my past positions. If you would like more information on my skills and past experience please see <a href='#resume'>my resume below</a>.
 
 I live in the North Chicago suburbs with my wonderful, beautiful partner and our two kitties and turtle. In my free time I enjoy reading, writing for personal pleasure, engaging in ridiculous abstract arguments regarding the efficacy of various political, economic, and environmental policies, and spending an increasingly large amount of time contributing code to open source.
 
@@ -26,6 +26,8 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner and our
 * linkedin: <a href='https://www.linkedin.com/in/phil-trimble-9748974a'>my linkedin page</a>
 
 ## Resume
+
+<a name="resume"></a>
 
 ### Experience
 
@@ -68,8 +70,8 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner and our
   <li>Strong Ruby</li>
   <li>Strong Go</li>
   <li>Strong Unix/Linux Shell scripting</li>
-  <li>Java</li>
   <li>SQL</li>
+  <li>Java</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>C#</li>
@@ -79,16 +81,14 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner and our
 <ul>
   <li>Object oriented principles</li>
   <li>Strong proponent of Test-driven development</li>
-  <li>vi</li>
-  <li>ZeroMQ</li>
-  <li>mySQL, postgresSQL, Oracle, Teradata</li>
-  <li>Multi-threaded programming</li>
-  <li>Socket and message queue programming</li>
-  <li>Data warehouse principles</li>
-  <li>AIX and Red Hat Enterprise Linux</li>
+  <li>Strong advocate of <a href='https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)'>SOLID</a> principles</li>
   <li>Agile development practices</li>
-  <li>Tomcat</li>
-  <li>git and Clearcase</li>
+  <li>vi lover</li>
+  <li>postgresSQL, mySQL, Oracle, Teradata</li>
+  <li>Ubuntu, AIX, and Red Hat Enterprise Linux</li>
+  <li>git and Clearcase (please, don't ask me to work with Clearcase again)</li>
+  <li>ZeroMQ (and general socket/message queues)</li>
+  <li>Data warehouse principles</li>
   <li>Ruby on Rails</li>
 </ul>
 
