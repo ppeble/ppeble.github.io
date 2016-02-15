@@ -45,7 +45,6 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner and our
 <strong>(November 2012 - March 2014)</strong>
 
 <ul>
-  <li>November 2012 - March 2014</li>
   <li>Worked with small dedicated IT staff to maintain, support, and extend existing Ruby on Rails applications servicing both front and back office functions</li>
   <li>Responsible for reengineering a myriad of existing applications that contained overlapping functionality into a single core internal application that serviced all levels of the organization (payroll, HR, catering, shipping, retail, purchasing, and accounting)</li>
   <li>Responsible for maintaining and rewriting existing shipping calculation application development in Ruby on Rails. This application was used both internally (by customer service reps) and externally (by our customer-facing site) to determine the best delivery options for the shipping business</li>
