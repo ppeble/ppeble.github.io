@@ -1,0 +1,10 @@
+# Site settings
+title: Phil Peble
+tag_text: Phil Peble
+description: Personal site for Phil Peble
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
