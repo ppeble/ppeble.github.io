@@ -12,10 +12,10 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner and our
 
 * Graduated from Northern Illinois University in 2006
 * Was born in Georgia but spent time growing up in Kansas, Maryland, and finally Illinois
-* Unapologetically likes Kayne West
+* Unapologetically likes Kanye West
 * Maintainer of <a href='http://github.com/holidays/holidays'>Holidays</a> gem since 2014
 * Once ate a 1 pound cheeseburger at Fuddruckers outside of St Louis.
-* Strong (sometimes annoyingly so, depending on who you ask) supporter of <a href='https://en.wikipedia.org/wiki/Test-driven_development'>Test-driven development</a>
+* Strong supporter (sometimes annoyingly so, depending on who you ask) of <a href='https://en.wikipedia.org/wiki/Test-driven_development'>Test-driven development</a>
 * Loves (but is not IN love) with <a href='https://twitter.com/rob_pike'>Rob Pike</a>
 
 ## Contact info
@@ -110,4 +110,4 @@ decision and we are in the process of changing it. The process is kinda drawn ou
 
 This page is built with <a href='https://github.com/chibicode/solo/'>Solo</a>, a Jekyll theme for single-page sites.
 
-<strong>Last updated: 2016/2/14</strong>
+<strong>Last updated: 2016/2/18</strong>
