@@ -49,17 +49,19 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner and our
 <ul>
   <li>Worked with small dedicated IT staff to maintain, support, and extend existing Ruby on Rails applications servicing both front and back office functions</li>
   <li>Responsible for reengineering a myriad of existing applications that contained overlapping functionality into a single core internal application that serviced all levels of the organization (payroll, HR, catering, shipping, retail, purchasing, and accounting)</li>
-  <li>Responsible for maintaining and rewriting existing shipping calculation application development in Ruby on Rails. This application was used both internally (by customer service reps) and externally (by our customer-facing site) to determine the best delivery options for the shipping business</li>
+  <li>Responsible for maintaining and rewriting existing shipping calculation application in Ruby on Rails. This application was used both internally (by customer service reps) and externally (by our customer-facing site) to determine the best delivery options for the shipping business</li>
   <li>Responsible for designing and facilitating new IT project implmentation strategies across all levels of organization</li>
 </ul>
 
 <strong>Application Developer - Discover Financial Services</strong><br/>
 <strong>(June 2006 - November 2012)</strong>
 <ul>
-  <li>Helped develop, implement, and support a horizontally scalable and multi-threaded batch infrastructure utilizing Java nad Unix/Linux shell scripting to execute time-critical and high-volume business-designed strategies in a production environment</li>
+  <li>Helped develop, implement, and support a horizontally scalable and multi-threaded batch infrastructure utilizing Java and Unix/Linux shell scripting to execute time-critical and high-volume business-designed strategies in a production environment</li>
   <li>Helped develop, implement, and support real-time Java EE applications in Websphere to execute business-designed strategies in a high-availability production environment</li>
   <li>Both types of applications tied together various technologies, including Teradata/Oracle, IBM MQ, sockets, and file-based processing</li>
+  <li>All aspects were configurable via an extensive set of property files, allowing for each sub-application to use only the features that it required</li>
   <li>Supported all team applications on a rotating 24/7 pager schedule</li>
+  <li>Worked closely with product owners to define requirements</li>
   <li>Worked on efforts through all levels of project life-cycle</li>
 </ul>
 
@@ -69,7 +71,7 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner and our
 <ul>
   <li>Strong Ruby</li>
   <li>Strong Go</li>
-  <li>Strong Unix/Linux Shell scripting</li>
+  <li>Strong Shell scripting</li>
   <li>SQL</li>
   <li>Java</li>
   <li>HTML</li>
@@ -80,16 +82,19 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner and our
 <strong>Proficiencies</strong>
 <ul>
   <li>Object oriented principles</li>
-  <li>Strong proponent of Test-driven development</li>
+  <li>Strong advocate of Test-driven development (it is <strong>really</strong> important to me. If you hate TDD then we probably won't be BFFs)</li>
   <li>Strong advocate of <a href='https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)'>SOLID</a> principles</li>
-  <li>Agile development practices</li>
-  <li>vi lover</li>
+  <li>Strong advocate of agile (lower case 'a') development practices</li>
+  <li>vi (I have used various IDEs in the past but really, really love vi)</li>
+  <li>tmux (I really love tmux)</li>
+  <li>Ruby on Rails</li>
   <li>postgresSQL, mySQL, Oracle, Teradata</li>
   <li>Ubuntu, AIX, and Red Hat Enterprise Linux</li>
-  <li>git and Clearcase (please, don't ask me to work with Clearcase again)</li>
+  <li>git and Clearcase (please please please, don't ask me to work with Clearcase again)</li>
   <li>ZeroMQ (and general socket/message queues)</li>
   <li>Data warehouse principles</li>
-  <li>Ruby on Rails</li>
+  <li>Familiar with using LXCs (from a developer perspective)</li>
+  <li>Vagrant</li>
 </ul>
 
 ### Education
@@ -110,4 +115,4 @@ decision and we are in the process of changing it. The process is kinda drawn ou
 
 This page is built with <a href='https://github.com/chibicode/solo/'>Solo</a>, a Jekyll theme for single-page sites.
 
-<strong>Last updated: 2016/2/18</strong>
+<strong>Last updated: 2016/2/20</strong>
