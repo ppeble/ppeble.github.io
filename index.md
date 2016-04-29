@@ -4,7 +4,7 @@ layout: default
 
 Hello!
 
-My name is Phil Peble and I am a software developer that currently works for <a href='http://www.sittercity.com'>Sittercity</a>. I am primarily a backend engineer that writes in Ruby and Go but I have used other languages extensively in my past positions. If you would like more information on my skills and past experience please see <a href='#resume'>my resume below</a>.
+My name is Phil Peble and I am a software developer that currently works for <a href='http://www.sittercity.com'>Sittercity</a>. I am primarily a backend engineer that writes in Ruby and Go but I have used other languages extensively in my past positions. If you would like more information on my skills and past experiences please see <a href='#resume'>my resume below</a>.
 
 I live in the North Chicago suburbs with my wonderful, beautiful partner and our two kitties and turtle. In my free time I enjoy reading, writing for personal pleasure, engaging in ridiculous abstract arguments regarding the efficacy of various political, economic, and environmental policies, and spending an increasingly large amount of time contributing code to open source.
 
@@ -14,7 +14,7 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner and our
 * Was born in Georgia but spent time growing up in Kansas, Maryland, and finally Illinois
 * Unapologetically likes Kanye West
 * Maintainer of <a href='http://github.com/holidays/holidays'>Holidays</a> gem since 2014
-* Once ate a 1 pound cheeseburger at Fuddruckers outside of St Louis.
+* Once ate a 1 pound cheeseburger at a Fuddruckers outside of St Louis.
 * Strong supporter (sometimes annoyingly so, depending on who you ask) of <a href='https://en.wikipedia.org/wiki/Test-driven_development'>Test-driven development</a>
 * Loves (but is not IN love) with <a href='https://twitter.com/rob_pike'>Rob Pike</a>
 
@@ -90,7 +90,7 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner and our
   <li>Ruby on Rails</li>
   <li>postgresSQL, mySQL, Oracle, Teradata</li>
   <li>Ubuntu, AIX, and Red Hat Enterprise Linux</li>
-  <li>git and Clearcase (please please please, don't ask me to work with Clearcase again)</li>
+  <li>git and Clearcase (please please please don't ask me to work with Clearcase again)</li>
   <li>ZeroMQ (and general socket/message queues)</li>
   <li>Data warehouse principles</li>
   <li>Familiar with using LXCs (from a developer perspective)</li>
@@ -115,4 +115,4 @@ decision and we are in the process of changing it. The process is kinda drawn ou
 
 This page is built with <a href='https://github.com/chibicode/solo/'>Solo</a>, a Jekyll theme for single-page sites.
 
-<strong>Last updated: 2016/2/20</strong>
+<strong>Last updated: 2016/4/29</strong>
