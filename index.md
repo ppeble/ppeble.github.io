@@ -6,7 +6,7 @@ Hello!
 
 My name is Phil Peble and I am a software developer that currently works for <a href='http://www.sittercity.com'>Sittercity</a>. I am primarily a backend engineer that writes in Ruby and Go but I have used other languages extensively in my past positions. If you would like more information on my skills and past experiences please see <a href='#resume'>my resume below</a>.
 
-I live in the North Chicago suburbs with my wonderful, beautiful partner and our two kitties and turtle. In my free time I enjoy reading, writing for personal pleasure, engaging in ridiculous abstract arguments regarding the efficacy of various political, economic, and environmental policies, and spending an increasingly large amount of time contributing code to open source.
+I live in the North Chicago suburbs with my wonderful, beautiful partner, our new baby boy, and our two kitties and turtle. In my free time I enjoy reading, writing for personal pleasure, engaging in ridiculous abstract arguments regarding the efficacy of various political, economic, and environmental policies, and spending an increasingly large amount of time contributing code to open source.
 
 ## Key facts
 
@@ -22,7 +22,7 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner and our
 
 * email: <a href='mailto:phil@philpeble.com'>phil@philpeble.com</a>
 * twitter: <a href='https://twitter.com/philpeble'>@philpeble</a>
-* github: <a href='https://github.com/ptrimble'>http://github.com/ptrimble</a>
+* github: <a href='https://github.com/ppeble'>http://github.com/ppeble</a>
 * linkedin: <a href='https://www.linkedin.com/in/phil-trimble-9748974a'>my linkedin page</a>
 
 ## Resume
@@ -115,4 +115,4 @@ decision and we are in the process of changing it. The process is kinda drawn ou
 
 This page is built with <a href='https://github.com/chibicode/solo/'>Solo</a>, a Jekyll theme for single-page sites.
 
-<strong>Last updated: 2016/4/29</strong>
+<strong>Last updated: 2017/2/27</strong>
