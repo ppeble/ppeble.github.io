@@ -6,7 +6,7 @@ Hello!
 
 My name is Phil Peble and I am a software developer that currently works for <a href='http://www.sittercity.com'>Sittercity</a>. I am primarily a backend engineer that writes in Ruby and Go but I have used other languages extensively in my past positions. If you would like more information on my skills and past experiences please see <a href='#resume'>my resume below</a>.
 
-I live in the North Chicago suburbs with my wonderful, beautiful partner, our new baby boy, and our kitty (Thomas) and our turtle (Spanky). In my free time I enjoy reading, writing for personal pleasure, engaging in ridiculous abstract arguments regarding the efficacy of various political, economic, and environmental policies, and spending an increasingly large amount of time contributing code to open source.
+I live in the North Chicago suburbs with my wonderful, beautiful partner, our new baby boy, our kitty, and our turtle. In my free time I enjoy reading, writing for personal pleasure, engaging in ridiculous abstract arguments regarding the efficacy of various political, economic, and environmental policies, and spending an increasingly large amount of time contributing code to open source.
 
 ## Key facts
 
