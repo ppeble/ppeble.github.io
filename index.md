@@ -12,7 +12,6 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner, our ne
 
 * Graduated from Northern Illinois University in 2006
 * Was born in Georgia but spent time growing up in Kansas, Maryland, and finally Illinois
-* Unapologetically likes Kanye West
 * Maintainer of <a href='http://github.com/holidays/holidays'>Holidays</a> gem since 2014
 * Once ate a 1 pound cheeseburger at a Fuddruckers outside of St Louis.
 * Strong supporter (sometimes annoyingly so, depending on who you ask) of <a href='https://en.wikipedia.org/wiki/Test-driven_development'>Test-driven development</a>
@@ -20,7 +19,7 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner, our ne
 
 ## Contact info
 
-* email: <a href='mailto:phil@philpeble.com'>phil@philpeble.com</a>
+* email: <a href='mailto:hi@philpeble.com'>hi@philpeble.com</a>
 * twitter: <a href='https://twitter.com/philpeble'>@philpeble</a>
 * github: <a href='https://github.com/ppeble'>http://github.com/ppeble</a>
 * linkedin: <a href='https://www.linkedin.com/in/phil-peble-9748974a/'>my linkedin page</a>
@@ -35,10 +34,10 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner, our ne
 <strong>(March 2014 - Present)</strong>
 
 <ul>
-  <li>Work in an agile environment to develop highly-available services in Ruby and Go</li>
-  <li>Aim for 100% test coverage of all projects to ensure minimal issues and maximum refactoring potential</li>
+  <li>Work in an agile environment to develop highly-available applications in Ruby and Go</li>
+  <li>Aim for near-100% test coverage of all projects to ensure minimal issues and maximum refactoring potential</li>
   <li>Work with product owners to write acceptance criteria and ensure business goals are met</li>
-  <li>Help and guide junior developers as needed</li>
+  <li>Mentor junior developers by emphasizing the SOLID principles and disciplined TDD</li>
   <li>Develop proof-of-concept projects to help guide direction of future work</li>
   <li>Develop RFCs and best practices along with other senior developers to influence technology direction</li>
 </ul>
@@ -71,8 +70,8 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner, our ne
 <ul>
   <li>Strong Ruby</li>
   <li>Strong Go</li>
-  <li>Strong Shell scripting</li>
-  <li>SQL</li>
+  <li>Strong SQL</li>
+  <li>Shell scripting</li>
   <li>Java</li>
   <li>HTML</li>
   <li>CSS</li>
@@ -90,11 +89,12 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner, our ne
   <li>Ruby on Rails</li>
   <li>postgresSQL, mySQL, Oracle, Teradata</li>
   <li>Ubuntu, AIX, and Red Hat Enterprise Linux</li>
+  <li>Docker</li>
   <li>git and Clearcase (please please please don't ask me to work with Clearcase again)</li>
   <li>ZeroMQ (and general socket/message queues)</li>
   <li>Data warehouse principles</li>
-  <li>Familiar with using LXCs (from a developer perspective)</li>
   <li>Vagrant</li>
+  <li>Google Cloud Platform</li>
 </ul>
 
 ### Education
@@ -115,4 +115,4 @@ decision and we are in the process of changing it. The process is kinda drawn ou
 
 This page is built with <a href='https://github.com/chibicode/solo/'>Solo</a>, a Jekyll theme for single-page sites.
 
-<strong>Last updated: 2017/3/22</strong>
+<strong>Last updated: 2018/8/3</strong>
