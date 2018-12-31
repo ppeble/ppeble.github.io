@@ -4,9 +4,9 @@ layout: default
 
 Hello!
 
-My name is Phil Peble and I am a software developer that currently works for <a href='http://www.sittercity.com'>Sittercity</a>. I am primarily a backend engineer that writes in Ruby and Go but I have used other languages extensively in my past positions. If you would like more information on my skills and past experiences please see <a href='#resume'>my resume below</a>.
+My name is Phil Peble and I am a software developer that currently works for <a href='http://www.travis-ci.com'>Travis CI</a>. I am primarily a backend engineer that writes in Ruby and Go but I have used other languages extensively in my past positions. If you would like more information on my skills and past experiences please see <a href='#resume'>my resume below</a>.
 
-I live in the North Chicago suburbs with my wonderful, beautiful partner, our new baby boy, our kitty, and our turtle. In my free time I enjoy reading, writing for personal pleasure, engaging in ridiculous abstract arguments regarding the efficacy of various political, economic, and environmental policies, and spending an increasingly large amount of time contributing code to open source.
+I live in the North Chicago suburbs with my wonderful, beautiful partner, our son, and our turtle. In my free time I enjoy reading, writing for personal pleasure, engaging in ridiculous abstract arguments regarding the efficacy of various political, economic, and environmental policies, and spending an increasingly large amount of time contributing code to open source.
 
 ## Key facts
 
@@ -30,8 +30,11 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner, our ne
 
 ### Experience
 
+<strong>Enterprise Software Engineer - Travis CI</strong><br/>
+<strong>(December 2018 - Present)</strong>
+
 <strong>Senior Software Developer - Sittercity</strong><br/>
-<strong>(March 2014 - Present)</strong>
+<strong>(March 2014 - December 2018)</strong>
 
 <ul>
   <li>Work in an agile environment to develop highly-available applications in Ruby and Go</li>
@@ -71,7 +74,7 @@ I live in the North Chicago suburbs with my wonderful, beautiful partner, our ne
   <li>Strong Ruby</li>
   <li>Strong Go</li>
   <li>Strong SQL</li>
-  <li>Shell scripting</li>
+  <li>Strong shell scripting</li>
   <li>Java</li>
   <li>HTML</li>
   <li>CSS</li>
@@ -115,4 +118,4 @@ decision and we are in the process of changing it. The process is kinda drawn ou
 
 This page is built with <a href='https://github.com/chibicode/solo/'>Solo</a>, a Jekyll theme for single-page sites.
 
-<strong>Last updated: 2018/8/3</strong>
+<strong>Last updated: 2018/12/31</strong>
