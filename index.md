@@ -6,7 +6,7 @@ Hello!
 
 My name is Phil Peble and I am a software developer that currently works for <a href='http://www.activecampaign.com'>ActiveCampaign</a>. I am primarily a backend engineer that writes in Ruby and Go but I have used other languages extensively in my past positions. If you would like more information on my skills and past experiences please see <a href='#resume'>my resume below</a>.
 
-I live in the North Chicago suburbs with my wonderful partner, our son, our cat, and our turtle. In my free time I enjoy reading, engaging in arguments regarding the efficacy of various political, economic, and environmental policies, gaming, and contributing code to open source.
+I live in the North Chicago suburbs with my wonderful partner, our son and daughter, our cat, and our turtle. In my free time I enjoy reading, engaging in arguments regarding the efficacy of various political, economic, and environmental policies, gaming, and contributing code to open source.
 
 ## Key facts
 
@@ -15,7 +15,6 @@ I live in the North Chicago suburbs with my wonderful partner, our son, our cat,
 * Maintainer of <a href='http://github.com/holidays/holidays'>Holidays</a> gem since 2014
 * Once ate a 1 pound cheeseburger at a Fuddruckers outside of St Louis.
 * Strong supporter (sometimes annoyingly so, depending on who you ask) of <a href='https://en.wikipedia.org/wiki/Test-driven_development'>Test-driven development</a>
-* Loves (but is not IN love) with <a href='https://twitter.com/rob_pike'>Rob Pike</a>
 
 ## Contact info
 
@@ -30,8 +29,32 @@ I live in the North Chicago suburbs with my wonderful partner, our son, our cat,
 
 ### Experience
 
-<strong>Senior Software Engineer - ActiveCampaign</strong><br/>
-<strong>(April 2019 - Present)</strong>
+<strong>Staff Software Engineer - Platform Automation - ActiveCampaign</strong><br/>
+<strong>(June 2021 - Present)</strong>
+
+<ul>
+  <li>Help design and implement move to multi-region data centers</li>
+  <li>Implement and maintain <a href='https://argoproj.github.io/argo-cd/'>ArgoCD</a> for multi-region deployments</li>
+  <li>Implement internal 'developer portal' that developers can use to monitor and deploy their applications to all regions</li>
+  <li>Provide guidance and mentor junior developers</li>
+  <li>Write ADRs and design documents for platform decisions and guide teams on implementation</li>
+  <li>Work with developers to design and improve internal deployment and application tooling</li>
+</ul>
+
+<strong>Senior Software Engineer - DevOps - ActiveCampaign</strong><br/>
+<strong>(April 2019 - May 2021)</strong>
+
+<ul>
+  <li>Implement API Gateway using <a href='https://www.getambassador.io/'>Ambassador</a> in order to help with redesign of monolithic applications</li>
+  <li>Provide guidance and direction for switch to Kubernetes within the organization</li>
+  <li>Maintain auto-scaling AWS EKS clusters in staging and production</li>
+  <li>Develop custom deployment tooling for developers for all environments</li>
+  <li>Implement and maintain CI/CD pipelines in GitLab</li>
+  <li>Implement and maintain local development tooling used by all developers</li>
+  <li>Maintain self-hosted GitLab used by all developers</li>
+  <li>Develop self-service tooling for various AWS technologies (s3, sqs, etc) so developers could be empowered without relying on infrastructure teams</li>
+  <li>Write extensive documentation explaining our tooling and new processes in kubernetes</li>
+</ul>
 
 <strong>Senior Software Developer - Sittercity</strong><br/>
 <strong>(March 2014 - December 2018)</strong>
@@ -79,6 +102,7 @@ I live in the North Chicago suburbs with my wonderful partner, our son, our cat,
   <li>HTML</li>
   <li>CSS</li>
   <li>C#</li>
+  <li>Typescript</li>
 </ul>
 
 <strong>Proficiencies</strong>
@@ -96,8 +120,11 @@ I live in the North Chicago suburbs with my wonderful partner, our son, our cat,
   <li>git and Clearcase (please please please don't ask me to work with Clearcase again)</li>
   <li>ZeroMQ (and general socket/message queues)</li>
   <li>Data warehouse principles</li>
-  <li>Vagrant</li>
   <li>Google Cloud Platform</li>
+  <li>AWS</li>
+  <li>Terraform</li>
+  <li>GitLab (and auto-devops)</li>
+  <li>Kubernetes</li>
 </ul>
 
 ### Education
@@ -112,4 +139,4 @@ I live in the North Chicago suburbs with my wonderful partner, our son, our cat,
 
 This page is built with <a href='https://github.com/chibicode/solo/'>Solo</a>, a Jekyll theme for single-page sites.
 
-<strong>Last updated: 2019/04/07</strong>
+<strong>Last updated: 2021/08/20</strong>
