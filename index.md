@@ -34,7 +34,7 @@ I live in the North Chicago suburbs with my wonderful partner, our son and daugh
 
 <ul>
   <li>Help design and implement move to multi-region data centers</li>
-  <li>Implement and maintain <a href='https://argoproj.github.io/argo-cd/'>ArgoCD</a> for multi-region deployments</li>
+  <li>Implement and maintain <a href='https://argoproj.github.io/argo-cd/'>Argo CD</a> for multi-region deployments</li>
   <li>Implement internal 'developer portal' that developers can use to monitor and deploy their applications to all regions</li>
   <li>Provide guidance and mentor junior developers</li>
   <li>Write ADRs and design documents for platform decisions and guide teams on implementation</li>
