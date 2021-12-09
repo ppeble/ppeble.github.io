@@ -139,4 +139,4 @@ I live in the North Chicago suburbs with my wonderful partner, our son and daugh
 
 This page is built with <a href='https://github.com/chibicode/solo/'>Solo</a>, a Jekyll theme for single-page sites.
 
-<strong>Last updated: 2021/08/20</strong>
+<strong>Last updated: 2021/12/09</strong>
