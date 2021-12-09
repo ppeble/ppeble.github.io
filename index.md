@@ -114,7 +114,7 @@ I live in the North Chicago suburbs with my wonderful partner, our son and daugh
   <li>vi (I have used various IDEs in the past but really, really love vi)</li>
   <li>tmux (I really love tmux)</li>
   <li>Ruby on Rails</li>
-  <li>postgresSQL, mySQL, Oracle, Teradata</li>
+  <li>PostgreSQL, mySQL, Oracle, Teradata</li>
   <li>Ubuntu, AIX, and Red Hat Enterprise Linux</li>
   <li>Docker</li>
   <li>git and Clearcase (please please please don't ask me to work with Clearcase again)</li>
@@ -139,4 +139,4 @@ I live in the North Chicago suburbs with my wonderful partner, our son and daugh
 
 This page is built with <a href='https://github.com/chibicode/solo/'>Solo</a>, a Jekyll theme for single-page sites.
 
-<strong>Last updated: 2021/08/20</strong>
+<strong>Last updated: 2021/12/09</strong>
