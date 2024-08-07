@@ -6,21 +6,24 @@ Hello!
 
 My name is Phil Peble and I am a software developer that currently works for <a href='http://www.activecampaign.com'>ActiveCampaign</a>. I am primarily a backend engineer that writes in Ruby and Go but I have used other languages extensively in my past positions. If you would like more information on my skills and past experiences please see <a href='#resume'>my resume below</a>.
 
-I live in the North Chicago suburbs with my wonderful partner, our son and daughter, our cat, and our turtle. In my free time I enjoy reading, engaging in arguments regarding the efficacy of various political, economic, and environmental policies, gaming, and contributing code to open source.
+I live in the North Chicago suburbs with my wonderful partner, our son and two daughters, our cat, and our turtle. In my free time I enjoy reading, engaging in arguments regarding the efficacy of various political, economic, and environmental policies, gaming, and contributing code to open source.
 
 ## Key facts
 
 * Graduated from Northern Illinois University in 2006
 * Was born in Georgia but spent time growing up in Kansas, Maryland, and finally Illinois
-* Maintainer of <a href='http://github.com/holidays/holidays'>Holidays</a> gem since 2014
-* Once ate a 1 pound cheeseburger at a Fuddruckers outside of St Louis.
+* Maintainer of <a href='https://github.com/holidays/holidays'>Holidays</a> gem since 2014
+* Maintainer of <a href='https://github.com/emissary-ingress'>Emissary Ingress</a> since 2024
+* Once ate a 1 pound cheeseburger at a Fuddruckers outside of St Louis
 * Strong supporter (sometimes annoyingly so, depending on who you ask) of <a href='https://en.wikipedia.org/wiki/Test-driven_development'>Test-driven development</a>
+* Strong supporter of <a href='https://en.wikipedia.org/wiki/SOLID'>SOLID principles</a>
 
 ## Contact info
 
 * email: <a href='mailto:hi@philpeble.com'>hi@philpeble.com</a>
 * twitter: <a href='https://twitter.com/philpeble'>@philpeble</a>
 * github: <a href='https://github.com/ppeble'>http://github.com/ppeble</a>
+* mastodon: <a href='https://mastodon.social/@philpeble'>https://mastodon.social/@philpeble</a>
 * linkedin: <a href='https://www.linkedin.com/in/phil-peble-9748974a/'>my linkedin page</a>
 
 ## Resume
@@ -35,10 +38,12 @@ I live in the North Chicago suburbs with my wonderful partner, our son and daugh
 <ul>
   <li>Help design and implement move to multi-region data centers</li>
   <li>Implement and maintain <a href='https://argoproj.github.io/argo-cd/'>Argo CD</a> for multi-region deployments</li>
+  <li>Implement and maintain <a href='https://temporal.io/'>Temporal</a> for mission-critical business logic</li>
   <li>Implement internal 'developer portal' that developers can use to monitor and deploy their applications to all regions</li>
-  <li>Provide guidance and mentor junior developers</li>
+  <li>Mentor junior developers</li>
   <li>Write ADRs and design documents for platform decisions and guide teams on implementation</li>
   <li>Work with developers to design and improve internal deployment and application tooling</li>
+  <li>Implement and maintain automated release tooling for central monolith codebases</li>
 </ul>
 
 <strong>Senior Software Engineer - DevOps - ActiveCampaign</strong><br/>
@@ -111,9 +116,10 @@ I live in the North Chicago suburbs with my wonderful partner, our son and daugh
   <li>Strong advocate of Test-driven development (it is <strong>really</strong> important to me. If you hate TDD then we probably won't be BFFs)</li>
   <li>Strong advocate of <a href='https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)'>SOLID</a> principles</li>
   <li>Strong advocate of agile (lower case 'a') development practices</li>
-  <li>vi (I have used various IDEs in the past but really, really love vi)</li>
-  <li>tmux (I really love tmux)</li>
-  <li>Ruby on Rails</li>
+  <li><a href='https://neovim.io/'>vim</a> (I have used various IDEs in the past but really, really love vi)</li>
+  <li><a href='https://github.com/tmux/tmux/wiki'>tmux</a> (I really love tmux)</li>
+  <li><a href='https://rubyonrails.org/'>Ruby on Rails</a></li>
+  <li><a href='https://gokit.io/'>Go kit</a></li>
   <li>PostgreSQL, mySQL, Oracle, Teradata</li>
   <li>Ubuntu, AIX, and Red Hat Enterprise Linux</li>
   <li>Docker</li>
@@ -139,4 +145,4 @@ I live in the North Chicago suburbs with my wonderful partner, our son and daugh
 
 This page is built with <a href='https://github.com/chibicode/solo/'>Solo</a>, a Jekyll theme for single-page sites.
 
-<strong>Last updated: 2021/12/09</strong>
+<strong>Last updated: 2024/08/07</strong>
