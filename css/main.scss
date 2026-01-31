@@ -7,3 +7,9 @@
   'normalize',
   'solo',
   'syntax';
+
+.nested-compact {
+  margin-top: -0.25em;    // Pull nested list closer to parent
+  margin-bottom: 0em;     // Maintain some spacing
+  padding-left: 1.5em;    // Adjust indentation if needed
+}

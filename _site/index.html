@@ -34,7 +34,6 @@
 
 <ul>
   <li>email: <a href="mailto:hi@philpeble.com">hi@philpeble.com</a></li>
-  <li>twitter: <a href="https://twitter.com/philpeble">@philpeble</a></li>
   <li>github: <a href="https://github.com/ppeble">http://github.com/ppeble</a></li>
   <li>mastodon: <a href="https://mastodon.social/@philpeble">https://mastodon.social/@philpeble</a></li>
   <li>linkedin: <a href="https://www.linkedin.com/in/phil-peble-9748974a/">my linkedin page</a></li>
@@ -46,31 +45,42 @@
 
 <h3 id="experience">Experience</h3>
 
-<p><strong>Staff Software Engineer - Platform Automation - ActiveCampaign</strong><br />
+<p><strong>Staff Software Engineer - Platform - ActiveCampaign</strong><br />
 <strong>(June 2021 - Present)</strong></p>
 
 <ul>
-  <li>Help design and implement move to multi-region data centers</li>
-  <li>Implement and maintain <a href="https://argoproj.github.io/argo-cd/">Argo CD</a> for multi-region deployments</li>
-  <li>Implement and maintain <a href="https://temporal.io/">Temporal</a> for mission-critical business logic</li>
-  <li>Implement internal 'developer portal' that developers can use to monitor and deploy their applications to all regions</li>
+  <li>Implement and maintain for 100+ developers:
+    <ul class="nested-compact">
+      <li><a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noopener noreferrer">Argo CD</a> for multi-region kubernetes deployments</li>
+      <li>internal React portal with Go backend to monitor and deploy applications to all regions</li>
+      <li>developer experience tooling (local development, self-service infra, CI pipelines in GitLab)</li>
+      <li>automated release tooling for central monolith codebase</li>
+    </ul>
+  </li>
+  <li>Help design and implement migration from single monolith region to multi-region data centers</li>
+  <li>Implement and maintain edge HTTP traffic routing:
+    <ul class="nested-compact">
+      <li>use <a href="https://emissary-ingress.dev/" target="_blank" rel="noopener noreferrer">Emissary Ingress</a> to process up to 4K req/s across multiple regions</li>
+      <li>integrate with internal services to support multiple authentication paths</li>
+      <li>provider developer tooling for flexible requests routing across multiple regions</li>
+    </ul>
+  </li>
+  <li>Implement and maintain <a href="https://temporal.io/" target="_blank" rel="noopener noreferrer">Temporal</a> for mission-critical business logic</li>
   <li>Mentor junior developers</li>
   <li>Write ADRs and design documents for platform decisions and guide teams on implementation</li>
-  <li>Work with developers to design and improve internal deployment and application tooling</li>
-  <li>Implement and maintain automated release tooling for central monolith codebases</li>
 </ul>
 
 <p><strong>Senior Software Engineer - DevOps - ActiveCampaign</strong><br />
 <strong>(April 2019 - May 2021)</strong></p>
 
 <ul>
-  <li>Implement API Gateway using <a href="https://www.getambassador.io/">Ambassador</a> in order to help with redesign of monolithic applications</li>
+  <li>Implement edge traffic gateway using <a href="https://emissary-ingress.dev" target="_blank" rel="noopener noreferrer">Emissary Ingress</a> in order to help with redesign of monolithic applications</li>
+  <li>Maintain self-hosted GitLab used by 150+ seats</li>
   <li>Provide guidance and direction for switch to Kubernetes within the organization</li>
   <li>Maintain auto-scaling AWS EKS clusters in staging and production</li>
-  <li>Develop custom deployment tooling for developers for all environments</li>
-  <li>Implement and maintain CI/CD pipelines in GitLab</li>
-  <li>Implement and maintain local development tooling used by all developers</li>
-  <li>Maintain self-hosted GitLab used by all developers</li>
+  <li>Develop custom deployment tooling used by 100+ developers for all environments</li>
+  <li>Implement and maintain CI/CD pipelines in GitLab used by 100+ developers</li>
+  <li>Implement and maintain local development tooling used by 100+ developers</li>
   <li>Develop self-service tooling for various AWS technologies (s3, sqs, etc) so developers could be empowered without relying on infrastructure teams</li>
   <li>Write extensive documentation explaining our tooling and new processes in kubernetes</li>
 </ul>
@@ -113,14 +123,11 @@
 
 <p><strong>Languages</strong></p>
 <ul>
-  <li>Strong Ruby</li>
   <li>Strong Go</li>
+  <li>Strong Ruby</li>
   <li>Strong SQL</li>
   <li>Strong shell scripting</li>
   <li>Java</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>C#</li>
   <li>Typescript</li>
 </ul>
 
@@ -135,7 +142,7 @@
   <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
   <li><a href="https://gokit.io/">Go kit</a></li>
   <li>PostgreSQL, mySQL, Oracle, Teradata</li>
-  <li>Ubuntu, AIX, and Red Hat Enterprise Linux</li>
+  <li>Ubuntu, Red Hat Enterprise Linux</li>
   <li>Docker</li>
   <li>git and Clearcase (please please please don't ask me to work with Clearcase again)</li>
   <li>ZeroMQ (and general socket/message queues)</li>
@@ -145,6 +152,8 @@
   <li>Terraform</li>
   <li>GitLab (and auto-devops)</li>
   <li>Kubernetes</li>
+  <li>Argo CD</li>
+  <li>React</li>
 </ul>
 
 <h3 id="education">Education</h3>
@@ -159,7 +168,7 @@
 
 <p>This page is built with <a href="https://github.com/chibicode/solo/">Solo</a>, a Jekyll theme for single-page sites.</p>
 
-<p><strong>Last updated: 2024/08/07</strong></p>
+<p><strong>Last updated: 2026/01/30</strong></p>
 
   </div>
 
