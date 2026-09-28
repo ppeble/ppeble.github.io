@@ -1,3 +1,3 @@
-source 'https://rubygems.org' do
-  gem 'github-pages', group: :jekyll_plugins
-end
+source 'https://rubygems.org'
+
+gem 'jekyll', '~> 4.4'
