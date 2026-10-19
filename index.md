@@ -48,7 +48,7 @@ I live in the North Chicago suburbs with my wonderful partner, our son and two d
     <ul class="nested-compact">
       <li>use <a href='https://emissary-ingress.dev/' target="_blank" rel="noopener noreferrer">Emissary Ingress</a> to process up to 4K req/s across multiple regions</li>
       <li>integrate with internal services to support multiple authentication paths</li>
-      <li>provider developer tooling for flexible requests routing across multiple regions</li>
+      <li>provide developer tooling for flexible requests routing across multiple regions</li>
     </ul>
   </li>
   <li>Implement and maintain <a href='https://temporal.io/' target="_blank" rel="noopener noreferrer">Temporal</a> for mission-critical business logic</li>
